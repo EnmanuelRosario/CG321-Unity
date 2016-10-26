@@ -1,18 +1,19 @@
 fileFormatVersion: 2
-guid: 185ce6ba8b27fa644b58e1035c950e0f
-timeCreated: 1474467387
+guid: 433b2e3723ac5b04f8837b743ba6be7f
+timeCreated: 1477447934
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: person-sprite-sheet_0
-    21300002: person-sprite-sheet_1
-    21300004: person-sprite-sheet_2
-    21300006: person-sprite-sheet_3
-    21300008: person-sprite-sheet_4
-    21300010: person-sprite-sheet_5
-    21300012: person-sprite-sheet_6
-    21300014: person-sprite-sheet_7
-    21300016: person-sprite-sheet_8
+    21300000: volt_sprite_sheet_by_kwelfury-d5hx008_0
+    21300002: volt_sprite_sheet_by_kwelfury-d5hx008_1
+    21300004: volt_sprite_sheet_by_kwelfury-d5hx008_2
+    21300006: volt_sprite_sheet_by_kwelfury-d5hx008_3
+    21300008: volt_sprite_sheet_by_kwelfury-d5hx008_4
+    21300010: volt_sprite_sheet_by_kwelfury-d5hx008_5
+    21300012: volt_sprite_sheet_by_kwelfury-d5hx008_6
+    21300014: volt_sprite_sheet_by_kwelfury-d5hx008_7
+    21300016: volt_sprite_sheet_by_kwelfury-d5hx008_8
+    21300018: volt_sprite_sheet_by_kwelfury-d5hx008_9
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -38,7 +39,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: 2
+    filterMode: -1
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -62,119 +63,132 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: person-sprite-sheet_0
+      name: volt_sprite_sheet_by_kwelfury-d5hx008_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 92
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 247.5
+        width: 180
+        height: 247.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: person-sprite-sheet_1
+      name: volt_sprite_sheet_by_kwelfury-d5hx008_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 92
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 180
+        y: 247.5
+        width: 180
+        height: 247.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: person-sprite-sheet_2
+      name: volt_sprite_sheet_by_kwelfury-d5hx008_2
       rect:
         serializedVersion: 2
-        x: 74
-        y: 92
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 360
+        y: 247.5
+        width: 180
+        height: 247.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: person-sprite-sheet_3
+      name: volt_sprite_sheet_by_kwelfury-d5hx008_3
       rect:
         serializedVersion: 2
-        x: 2
-        y: 56
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 540
+        y: 247.5
+        width: 180
+        height: 247.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: person-sprite-sheet_4
+      name: volt_sprite_sheet_by_kwelfury-d5hx008_4
       rect:
         serializedVersion: 2
-        x: 38
-        y: 56
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 720
+        y: 247.5
+        width: 180
+        height: 247.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: person-sprite-sheet_5
+      name: volt_sprite_sheet_by_kwelfury-d5hx008_5
       rect:
         serializedVersion: 2
-        x: 74
-        y: 56
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0.5
+        width: 180
+        height: 247.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: person-sprite-sheet_6
+      name: volt_sprite_sheet_by_kwelfury-d5hx008_6
       rect:
         serializedVersion: 2
-        x: 2
-        y: 20
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 180
+        y: 0.5
+        width: 180
+        height: 247.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: person-sprite-sheet_7
+      name: volt_sprite_sheet_by_kwelfury-d5hx008_7
       rect:
         serializedVersion: 2
-        x: 38
-        y: 20
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 360
+        y: 0.5
+        width: 180
+        height: 247.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: person-sprite-sheet_8
+      name: volt_sprite_sheet_by_kwelfury-d5hx008_8
       rect:
         serializedVersion: 2
-        x: 74
-        y: 20
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 540
+        y: 0.5
+        width: 180
+        height: 247.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: volt_sprite_sheet_by_kwelfury-d5hx008_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0.5
+        width: 180
+        height: 247.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
